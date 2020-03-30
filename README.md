@@ -12,4 +12,6 @@ IBM-PC汇编语言程序还是讲的好些2333
 
 Markdown格式文件请最好使用`Typora`等软件浏览，若要查看图片请下载./assets文件夹 (考虑到Github图床可能有时连不上)
 
+另外也备份了.pdf文件，方便查看.
+
 ![Image text](https://bkimg.cdn.bcebos.com/pic/dcc451da81cb39db5fbbbee3d5160924ab183008?x-bce-process=image/resize,m_lfit,w_268,limit_1)
