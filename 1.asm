@@ -1,5 +1,4 @@
 STACKS SEGMENT
-    ;此处输入堆栈段代码
 	DW 128 DUP(0)
 	TOPS LABEL WORD
 STACKS ENDS
@@ -16,7 +15,7 @@ CODES SEGMENT
 START:
     MOV AX,DATAS
     MOV DS,AX
-    ;此处输入代码段代码
+    ;麓脣麓娄脢盲脠毛麓煤脗毛露脦麓煤脗毛
 	MOV AX,STACKS
 	MOV SS,AX
 	LEA SP,TOPS
