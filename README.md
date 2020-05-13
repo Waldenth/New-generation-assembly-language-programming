@@ -14,4 +14,6 @@ Markdown格式文件请最好使用`Typora`等软件浏览，若要查看图片�
 
 另外也备份了.pdf文件，方便查看.
 
+如果你也碰巧需要，为什么不赏一个star呢?(●ˇ∀ˇ●)
+
 ![Image text](https://bkimg.cdn.bcebos.com/pic/dcc451da81cb39db5fbbbee3d5160924ab183008?x-bce-process=image/resize,m_lfit,w_268,limit_1)
