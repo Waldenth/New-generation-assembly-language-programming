@@ -16,4 +16,11 @@ Markdown格式文件请最好使用`Typora`等软件浏览，若要查看图片�
 
 如果你也碰巧需要，为什么不赏一个star呢?(●ˇ∀ˇ●)
 
++------------------+
+|       更新       |
++------------------+
+review时发现当初还是有一些错误和不严谨的地方，但是目前暂时没精力修改了，仅供参考。
+
+
+
 ![Image text](https://bkimg.cdn.bcebos.com/pic/dcc451da81cb39db5fbbbee3d5160924ab183008?x-bce-process=image/resize,m_lfit,w_268,limit_1)
